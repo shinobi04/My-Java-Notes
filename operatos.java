@@ -61,6 +61,21 @@ public class operatos {
         - here are few example of relational ope
         - == , != , <= , >= , < , >
          */
-        
+
+        //Logical Operators
+        /* There are three types of logical operators
+        - && Logical and ,same as logical gate And
+        - || Logical or ,same as logical or
+        - ! Logical not
+         */
+
+        //Assignment Operators
+        /* used to assign value to variables
+        Different type of assignment operators are
+        - += ex a+=10 is same as a=a+10
+        - -= ex a-=10 is same as a=a-10
+        - and similarly can be said for * and /
+         */
+
     }
 }
